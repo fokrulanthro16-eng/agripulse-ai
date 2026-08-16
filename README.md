@@ -14,7 +14,7 @@
 
 Smallholder farmers across developing agricultural economies face a twin crisis:
 1. **Devastating Crop Pathologies**: Plant diseases like *Rice Blast*, *Potato Late Blight*, and *Tomato Yellow Leaf Curl* spread rapidly across adjacent fields. Without immediate, accurate agronomic diagnosis, farmers lose up to **40-70% of their annual crop yield**.
-2. **Exploitative Middleman Asymmetries**: Local village traders (*farias* / middlemen) underpay farmers by taking advantage of information gaps regarding pricing at major regional wholesale market hubs (*araths*). Farmers frequently sell at a loss simply because they lack transparent calculations comparing distant wholesale prices against truck transport and fuel expenses.
+2. **Exploitative Middleman Asymmetries**: Local village traders underpay farmers by taking advantage of information gaps regarding pricing at major regional wholesale market hubs (*araths*). Farmers frequently sell at a loss simply because they lack transparent calculations comparing distant wholesale prices against truck transport and fuel expenses.
 
 ### Why Traditional Apps Fail
 Existing digital agriculture tools are fragmented—they either provide isolated plant disease identification without actionable chemical dosage guidelines, or display static commodity price tickers without deducting fuel, mileage, and transit spoilage risks.
@@ -53,6 +53,12 @@ flowchart TD
 
 ---
 
+## 📸 Live Product Dashboard
+
+![AgriPulse AI Dashboard](assets/dashboard.png)
+
+---
+
 ## 💡 Key Features & Innovation Matrix
 
 | Feature | Capability | Technical Execution |
@@ -86,7 +92,7 @@ flowchart TD
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/agripulse-ai.git
+   git clone https://github.com/fokrulanthro16-eng/agripulse-ai.git
    cd agripulse-ai
    ```
 
